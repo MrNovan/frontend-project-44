@@ -2,8 +2,6 @@
 [![Actions Status](https://github.com/MrNovan/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/MrNovan/frontend-project-44/actions)
 <a href="https://codeclimate.com/github/MrNovan/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/81a6985cc9d15a113fe0/maintainability" /></a>
 
-<-></- first
+
 - install pack
-<script async id="asciicast-zShuH4CGINWR2X31SufuKAXee" src="https://asciinema.org/a/zShuH4CGINWR2X31SufuKAXee.js"></script>
-- third
->
+[![asciicast](https://asciinema.org/a/zShuH4CGINWR2X31SufuKAXee.svg)](https://asciinema.org/a/zShuH4CGINWR2X31SufuKAXee)
