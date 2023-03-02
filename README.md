@@ -4,4 +4,13 @@
 
 
 - install pack
+
 [![asciicast](https://asciinema.org/a/zShuH4CGINWR2X31SufuKAXee.svg)](https://asciinema.org/a/zShuH4CGINWR2X31SufuKAXee)
+
+1. Game#1 Brain-even - even or odd. To start, use the brain-even command.
+
+- Example. Starting and losing
+[![asciicast](https://asciinema.org/a/S8BNrCnkB8AqTqv5UYJlERc0Q.svg)](https://asciinema.org/a/S8BNrCnkB8AqTqv5UYJlERc0Q)
+
+- Example. Victory. There are three questions to go through.
+[![asciicast](https://asciinema.org/a/u0ZmeflULjd4Y6cmHS8GR1sj9.svg)](https://asciinema.org/a/u0ZmeflULjd4Y6cmHS8GR1sj9)
