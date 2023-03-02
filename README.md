@@ -7,7 +7,7 @@
 
 [![asciicast](https://asciinema.org/a/zShuH4CGINWR2X31SufuKAXee.svg)](https://asciinema.org/a/zShuH4CGINWR2X31SufuKAXee)
 
-###### 1. Game#1 Brain-even - even or odd. To start, use the brain-even command.
+## 1. Game №1, Brain-even - even or odd. To start, use the brain-even command.
 
 - Example. Starting and losing
 [![asciicast](https://asciinema.org/a/S8BNrCnkB8AqTqv5UYJlERc0Q.svg)](https://asciinema.org/a/S8BNrCnkB8AqTqv5UYJlERc0Q)
