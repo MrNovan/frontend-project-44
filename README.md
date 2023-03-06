@@ -14,3 +14,11 @@
 
 - Example. Victory. There are three questions to go through.
 [![asciicast](https://asciinema.org/a/u0ZmeflULjd4Y6cmHS8GR1sj9.svg)](https://asciinema.org/a/u0ZmeflULjd4Y6cmHS8GR1sj9)
+
+## 2. Game №2, Brain-calculator - solve expressions. To start, use the brain-calc command.
+
+- Example. Starting and losing
+[![asciicast](https://asciinema.org/a/XSCZS1O9BiWDOebRHRUIr113i.svg)](https://asciinema.org/a/XSCZS1O9BiWDOebRHRUIr113i)
+
+- Example. Victory. There are three questions to go through.
+[![asciicast](https://asciinema.org/a/NvIJK4x68vrMLCB47C6XrujM6.svg)](https://asciinema.org/a/NvIJK4x68vrMLCB47C6XrujM6)
