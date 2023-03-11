@@ -22,3 +22,11 @@
 
 - Example. Victory. There are three questions to go through.
 [![asciicast](https://asciinema.org/a/NvIJK4x68vrMLCB47C6XrujM6.svg)](https://asciinema.org/a/NvIJK4x68vrMLCB47C6XrujM6)
+
+## 2. Game №3, Brain-GCD - greatest common divisor. To start, use the brain-gcd command.
+
+- Example. Starting and losing
+[![asciicast](https://asciinema.org/a/KU4owkEHcmn0LAEJWc2pt324e.svg)](https://asciinema.org/a/KU4owkEHcmn0LAEJWc2pt324e)
+
+- Example. Victory. There are three questions to go through.
+[![asciicast](https://asciinema.org/a/T9QUWxirwGI8HNbq68g4YYu66.svg)](https://asciinema.org/a/T9QUWxirwGI8HNbq68g4YYu66)
