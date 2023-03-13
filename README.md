@@ -30,3 +30,11 @@
 
 - Example. Victory. There are three questions to go through.
 [![asciicast](https://asciinema.org/a/T9QUWxirwGI8HNbq68g4YYu66.svg)](https://asciinema.org/a/T9QUWxirwGI8HNbq68g4YYu66)
+
+## 2. Game №4, Brain-Progression - What number is missing in the progression? To start, use the brain-progression command.
+
+- Example. Starting and losing
+[![asciicast](https://asciinema.org/a/LsdimfQHrGXUc8HhBsAXEJcV0.svg)](https://asciinema.org/a/LsdimfQHrGXUc8HhBsAXEJcV0)
+
+- Example. Victory. There are three questions to go through.
+[![asciicast](https://asciinema.org/a/daXf0E7P1wGxzpO9M9T91oSnI.svg)](https://asciinema.org/a/daXf0E7P1wGxzpO9M9T91oSnI)
