@@ -3,7 +3,7 @@ import playGame from '../index.js';
 
 const gameSay = 'What number is missing in the progression?';
 
-const progression = (startNumber, lengtNumber, stepNumber) => {
+const progression = (startNumber = 1, lengtNumber = 10, stepNumber = 2) => {
   const arrayNumber = [];
   for (let i = 0; i <= (lengtNumber - 1); i += 1) {
     arrayNumber.push(startNumber + stepNumber * i);
