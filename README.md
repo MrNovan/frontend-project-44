@@ -23,7 +23,7 @@
 - Example. Victory. There are three questions to go through.
 [![asciicast](https://asciinema.org/a/NvIJK4x68vrMLCB47C6XrujM6.svg)](https://asciinema.org/a/NvIJK4x68vrMLCB47C6XrujM6)
 
-## 2. Game №3, Brain-GCD - greatest common divisor. To start, use the brain-gcd command.
+## 3. Game №3, Brain-GCD - greatest common divisor. To start, use the brain-gcd command.
 
 - Example. Starting and losing
 [![asciicast](https://asciinema.org/a/KU4owkEHcmn0LAEJWc2pt324e.svg)](https://asciinema.org/a/KU4owkEHcmn0LAEJWc2pt324e)
@@ -31,10 +31,20 @@
 - Example. Victory. There are three questions to go through.
 [![asciicast](https://asciinema.org/a/T9QUWxirwGI8HNbq68g4YYu66.svg)](https://asciinema.org/a/T9QUWxirwGI8HNbq68g4YYu66)
 
-## 2. Game №4, Brain-Progression - What number is missing in the progression? To start, use the brain-progression command.
+## 4. Game №4, Brain-progression - What number is missing in the progression? To start, use the brain-progression command.
 
 - Example. Starting and losing
 [![asciicast](https://asciinema.org/a/LsdimfQHrGXUc8HhBsAXEJcV0.svg)](https://asciinema.org/a/LsdimfQHrGXUc8HhBsAXEJcV0)
 
 - Example. Victory. There are three questions to go through.
 [![asciicast](https://asciinema.org/a/daXf0E7P1wGxzpO9M9T91oSnI.svg)](https://asciinema.org/a/daXf0E7P1wGxzpO9M9T91oSnI)
+
+## 5. Game №5, Brain-prime - Is it a prime number? To start, use the brain-prime command.
+
+- Example. Starting and losing
+[![asciicast](https://asciinema.org/a/zadcNxGqyPtybaa2rU9iPrpzC.svg)](https://asciinema.org/a/zadcNxGqyPtybaa2rU9iPrpzC)
+
+- Example. Victory. There are three questions to go through.
+[![asciicast](https://asciinema.org/a/wXg3NLgpNvaClTepKJ0cLVySm.svg)](https://asciinema.org/a/wXg3NLgpNvaClTepKJ0cLVySm)
+
+
